@@ -4,6 +4,7 @@ begin-staticassets
 @static
 fingerprint true
 prefix public
+spa true
 
 # @aws
 # profile default
