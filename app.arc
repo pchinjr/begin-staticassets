@@ -3,6 +3,7 @@ begin-staticassets
 
 @static
 fingerprint true
+prefix public
 
 # @aws
 # profile default
