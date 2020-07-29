@@ -5,6 +5,7 @@ begin-staticassets
 get /
 
 @static
+spa true
 fingerprint true
 
 # @aws
