@@ -1,11 +1,7 @@
 @app
 begin-staticassets
 
-@http
-get /
-
 @static
-spa true
 fingerprint true
 
 # @aws
