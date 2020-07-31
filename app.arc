@@ -3,10 +3,7 @@ begin-staticassets
 
 @static
 fingerprint true
-prefix public
-
-@http
-get /
+spa false
 
 # @aws
 # profile default
